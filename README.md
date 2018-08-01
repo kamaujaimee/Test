@@ -1,4 +1,4 @@
-# News app designed by use of Android Arcgitecture Guidelines and Kotlin. 
+# News app designed by use of Android Architecture Guidelines and Kotlin. 
 # Has a simple splash screen, source list, news list and custom webview for the news details.
 # Uses a few dependencies to give it a cool look.
 # The code is customizable.
