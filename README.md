@@ -4,7 +4,7 @@
 # The code is customizable.
 # How it works
 #  1. Loads an array of list of news sources from a news api (www.ewsapi.org)
-#  2. Displays them usig a well structured recycler view.
+#  2. Displays them using a well structured recycler view.
 #  3. Has click listener that loads the specific news list into a list.
 #  4. Finally it loads each selected news into a custome webview.
 #
